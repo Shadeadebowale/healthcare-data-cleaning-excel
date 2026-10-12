@@ -28,11 +28,11 @@ Cleaning a messy 55,500-row hospital admissions dataset using Excel, with every 
 After cleaning: 0 duplicates, 0 blank cells, 0 negative billing values, and every discharge date falls on or after its admission date.
 
 ## Tools
-Excel: Remove Duplicates, LET, TEXTSPLIT, TEXTBEFORE, TEXTAFTER, FILTER, ROUND, ABS, COUNTIF, TRIM,.
+Excel: Remove Duplicates, LET, TEXTSPLIT, TEXTBEFORE, TEXTAFTER, FILTER, ROUND, ABS, COUNTIF, TRIM.
 
 ## Files
-- `raw/` original dataset, untouched
-- `cleaned/` cleaned dataset
+- `healthcare_dataset.csv` , untouched
+- `healthcare_dataset_clean.csv` cleaned dataset
 
 ## Author
  Afolashade Adebowale, Business Intelligence/Data Analyst.

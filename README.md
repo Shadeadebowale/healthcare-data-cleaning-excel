@@ -31,8 +31,8 @@ After cleaning: 0 duplicates, 0 blank cells, 0 negative billing values, and ever
 Excel: Remove Duplicates, LET, TEXTSPLIT, TEXTBEFORE, TEXTAFTER, FILTER, ROUND, ABS, COUNTIF, TRIM.
 
 ## Files
-- `healthcare_dataset.csv` , untouched
-- `healthcare_dataset_clean.csv` cleaned dataset
+- `healthcare_dataset.csv`: original dataset, untouched (55,500 rows)
+- `healthcare_dataset_clean.csv`: cleaned dataset (54,966 rows)
 
 ## Author
  Afolashade Adebowale, Business Intelligence/Data Analyst.
